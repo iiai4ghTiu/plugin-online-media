@@ -8,6 +8,10 @@ This package is largely a re-implementation of the mpv `ytdl_hook.lua` under IIN
 - Switch video resolution on the fly
 - Download video files
 
+## Installation
+
+https://github.com/iina/iina/issues/4411#issuecomment-1550105832
+
 ## Setup & Build
 
 ```sh
